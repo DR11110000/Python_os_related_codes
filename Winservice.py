@@ -1,3 +1,5 @@
+''' Updated code for win_service.py'''
+
 import servicemanager
 import socket
 import sys
